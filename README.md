@@ -13,7 +13,7 @@ This is my version of the solution for the markOne assignment.
 
 ---
 
-> [**Click here to go to the replit code**](https://replit.com/@sahatanmoy663/markOne#index.js)
+> [**Click here to go to the replit code**](https://replit.com/@sahatanmoy663/markTwo-2#index.js)
 
 > Secret to win this game: Read newspaper daily.
 >
